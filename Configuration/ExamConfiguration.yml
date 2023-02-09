@@ -1,10 +1,16 @@
 KHMI1101:
+  TestingMode: true
   Id: "KHMI1101"
   Name: "Kinh tế vi mô (KHMI1101)"
   Date: "09/02/2023 17:10"
   Time: 3600
   KeyLink: "https://drive.google.com/file/d/1pnqz4zAoGvjXsYqzbuEPgq0AYdnDuSYb/view?usp=sharing"
   DocumentLink:
-  - "KHMI1101_1.pdf"
-  - "KHMI1101_2.pdf"
-  Answers: "A B A D D A D C D B B C D C B C C B A C B A A C A C D C B C B C B C C B D A D A"
+    KHMI1101_1:
+      Code: "KHMI1101_1"
+      FileName: "KHMI1101_1.pdf"
+      Answers: "A B A D D A D C D B B C D C B C C B A C B A A C A C D C B C B C B C C B D A D A"
+    KHMI1101_2:
+      Code: "KHMI1101_2"
+      FileName: "KHMI1101_2.pdf"
+      Answers: "A B A D D A D C D B B C D C B C C B A C B A A C A C D C B C B C B C C B D A D A"
