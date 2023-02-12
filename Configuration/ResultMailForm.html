@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+  <style>
+    table,
+    th,
+    td {
+      border: 1px solid maroon;
+      padding: 5px;
+      text-align: center;
+      flex-wrap: wrap;
+    }
+
+    h2 {
+      color: navy;
+    }
+  </style>
+  <body>
+    <h3>
+      SITDE PK xin chúc mừng bạn đã hoàn thành bài thi thử học phần %subject%.
+      Sau đây là bảng báo cáo kết quả thi của bạn.
+    </h3>
+    <table>
+      <tr>
+        <th colspan="4">
+          <h2>THÔNG BÁO KẾT QUẢ THI THỬ HỌC PHẦN %subject%</h2>
+        </th>
+      </tr>
+      <tr>
+        <td><b>HỌ VÀ TÊN</b></td>
+        <td>%username%</td>
+      </tr>
+      <tr>
+        <td><b>MÃ SINH VIÊN</b></td>
+        <td>%user_id%</td>
+      </tr>
+      <tr>
+        <td><b>MÃ ĐỀ</b></td>
+        <td>%code%</td>
+      </tr>
+      <tr>
+        <td><b>ĐIỂM HỆ 4</b></td>
+        <td><b>%base4%</b></td>
+      </tr>
+      <tr>
+        <td><b>ĐIỂM HỆ 10</b></td>
+        <td><b>%base10%</b></td>
+      </tr>
+      <tr>
+        <td><b>ĐIỂM CHỮ</b></td>
+        <td><b>%letter_score%</b></td>
+      </tr>
+      <tr>
+        <td><b>SỐ LẦN BỊ ĐÁNH DẤU THÁI ĐỘ SAI</b></td>
+        <td>%tab_out_count%</td>
+      </tr>
+      <tr>
+        <td><b>ĐÁP ÁN ĐÃ CHỌN</b></td>
+        <td>%choices%</td>
+      </tr>
+      <tr>
+        <th colspan="4">
+          <h2>%result%</h2>
+        </th>
+      </tr>
+    </table>
+    <h3>
+      Cảm ơn bạn đã tham gia kì thi thử. SITDE PK chúc bạn có tâm thế thật tự
+      tin để sẵn sàng cho các bài thi thử tiếp theo và kì thi thật ở trường.
+    </h3>
+    <i> Thân ái, </i>
+    <br />
+    <i> Đội ngũ phát triển SITDE PK </i>
+  </body>
+</html>
