@@ -1,15 +1,15 @@
-LUCS1129:
+CNTT1191:
   TestingMode: false
-  Id: "LUCS1129"
-  Name: "Pháp luật đại cương (LUCS1129)"
-  Date: "15/02/2023 16:00"
-  Time: 3000
+  Id: "CNTT1191"
+  Name: "Vật lý đại cương (CNTT1191)"
+  Date: "19/02/2023 14:30"
+  Time: 3600
   KeyLink: "https://drive.google.com/file/d/1pnqz4zAoGvjXsYqzbuEPgq0AYdnDuSYb/view?usp=sharing"
   DocumentLink:
-    LUCS1129_1:
-      Code: "LUCS1129_1"
-      FileName: "LUCS1129_1.pdf"
-      Answers: "C A B D D A B A A D B A A B C D B A D D B B D A C B D C C B A A D A D B D D C C"
+    CNTT1191_1:
+      Code: "CNTT1191_1"
+      FileName: "CNTT1191_1.pdf"
+      Answers: "B C D A A D B D A C C A C B B C A A B A C B A C B C A B C B D B A A C B A A B C"
     LUCS1129_2:
       Code: "LUCS1129_2"
       FileName: "LUCS1129_2.pdf"
