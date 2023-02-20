@@ -1,16 +1,16 @@
-CNTT1191:
+TOCB1107:
   TestingMode: false
-  Id: "CNTT1191"
-  Name: "Vật lý đại cương (CNTT1191)"
-  Date: "19/02/2023 20:00"
+  Id: "TOCB1107"
+  Name: "Toán rời rạc (TOCB1107)"
+  Date: "20/02/2023 8:30"
   Time: 3600
   KeyLink: "https://drive.google.com/file/d/1pnqz4zAoGvjXsYqzbuEPgq0AYdnDuSYb/view?usp=sharing"
   DocumentLink:
-    CNTT1191_1:
-      Code: "CNTT1191_1"
-      FileName: "CNTT1191_1.pdf"
-      Answers: "B C D A A D B D A C C A C B B C A A B A C B A C B C A B C B D B A A C B A A B C"
-    CNTT1191_2:
-      Code: "CNTT1191_2"
-      FileName: "CNTT1191_2.pdf"
-      Answers: "B D C C C D B C C A D C C A C C B B C C A B C A D D B A C A D C D C A C C B B A"
+    TOCB1107_1:
+      Code: "TOCB1107_1"
+      FileName: "TOCB1107_1.pdf"
+      Answers: "C D D B D A A A C B D B B C B C C A A B C A A B B D A B C A A A A B B C C A C A"
+    TOCB1107_2:
+      Code: "TOCB1107_2"
+      FileName: "TOCB1107_2.pdf"
+      Answers: "D	C	A	C	C	C	D	B	D	C B	C	C	A	B	D	C	C	C	A D	A	D	B	D	C	A	A	C	D D	D	C	B	A	D	B	C	D	B"
