@@ -36,7 +36,7 @@ TIKT1109:
       Answers: "D C A B B C C D B C C C A C B B D B B B D C A A C B C D B A C C B B A B B B C D B A D A B C C B D A"
 KHMI1101:
   TestingMode: false
-  Id: "TIKT1109"
+  Id: "KHMI1101"
   Name: "Kinh tế vi mô (KHMI1101)"
   Date: "24/02/2023 10:00"
   Time: 3600
