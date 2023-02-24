@@ -2,7 +2,7 @@ CNTT1116:
   TestingMode: false
   Id: "CNTT1116"
   Name: "Nhập môn Công nghệ thông tin (CNTT1116)"
-  Date: "24/02/2023 14:30"
+  Date: "24/02/2023 20:00"
   Time: 3000
   KeyLink: "https://drive.google.com/file/d/1pnqz4zAoGvjXsYqzbuEPgq0AYdnDuSYb/view?usp=sharing"
   DocumentLink:
@@ -22,7 +22,7 @@ TIKT1109:
   TestingMode: false
   Id: "TIKT1109"
   Name: "Tin học đại cương (TIKT1109)"
-  Date: "24/02/2023 14:30"
+  Date: "24/02/2023 20:00"
   Time: 3000
   KeyLink: "https://drive.google.com/file/d/1pnqz4zAoGvjXsYqzbuEPgq0AYdnDuSYb/view?usp=sharing"
   DocumentLink:
@@ -38,7 +38,7 @@ KHMI1101:
   TestingMode: false
   Id: "KHMI1101"
   Name: "Kinh tế vi mô (KHMI1101)"
-  Date: "24/02/2023 10:00"
+  Date: "24/02/2023 16:00"
   Time: 3600
   KeyLink: "https://drive.google.com/file/d/1pnqz4zAoGvjXsYqzbuEPgq0AYdnDuSYb/view?usp=sharing"
   DocumentLink:
