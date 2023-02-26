@@ -1,41 +1,5 @@
-CNTT1116:
-  TestingMode: true
-  Id: "CNTT1116"
-  Name: "Nhập môn Công nghệ thông tin (CNTT1116)"
-  Date: "24/02/2023 20:30"
-  Time: 3000
-  KeyLink: "https://drive.google.com/file/d/1pnqz4zAoGvjXsYqzbuEPgq0AYdnDuSYb/view?usp=sharing"
-  DocumentLink:
-    CNTT1116_1:
-      Code: "CNTT1116_1"
-      FileName: "CNTT1116_1.pdf"
-      Answers: "A A B B D B A D B A C D A B D B B C C D B A A A D D A B A A C C C B D D B C C B B B C D A D B C A C"
-    CNTT1116_2:
-      Code: "CNTT1116_2"
-      FileName: "CNTT1116_2.pdf"
-      Answers: "C A A B A C B D D A C A D B A B A C B B C A C C A B A D C C A B B C D B A A C D B C B C A C B D A C"
-    CNTT1116_3:
-      Code: "CNTT1116_3"
-      FileName: "CNTT1116_3.pdf"
-      Answers: "C A B A B B D C A C D B D A A D D B A D A C C A B B A A D A B C B A D B D A A C A B A B A A A A D C"
-TIKT1109:
-  TestingMode: false
-  Id: "TIKT1109"
-  Name: "Tin học đại cương (TIKT1109)"
-  Date: "24/02/2023 20:00"
-  Time: 3000
-  KeyLink: "https://drive.google.com/file/d/1pnqz4zAoGvjXsYqzbuEPgq0AYdnDuSYb/view?usp=sharing"
-  DocumentLink:
-    TIKT1109_1:
-      Code: "TIKT1109_1"
-      FileName: "TIKT1109_1.pdf"
-      Answers: "C D C B C D A D C A C A C C D C C D A D D A A C C B B C A D C D B D B D D B A D D C A D D C B A D D"
-    TIKT1109_2:
-      Code: "TIKT1109_2"
-      FileName: "TIKT1109_2.pdf"
-      Answers: "D C A B B C C D B C C C A C B B D B B B D C A A C B C D B A C C B B A B B B C D B A D A B C C B D A"
 KHMI1101:
-  TestingMode: false
+  TestingMode: true
   Id: "KHMI1101"
   Name: "Kinh tế vi mô (KHMI1101)"
   Date: "24/02/2023 16:00"
