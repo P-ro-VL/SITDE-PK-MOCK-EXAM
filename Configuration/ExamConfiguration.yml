@@ -1,5 +1,5 @@
 KHMI1101:
-  TestingMode: false
+  TestingMode: true
   Id: 'KHMA1101'
   Name: 'Kinh tế vĩ mô'
   Date: '14/07/2023 09:25'
