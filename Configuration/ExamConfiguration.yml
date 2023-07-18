@@ -1,72 +1,320 @@
-KHMI1101:
-  TestingMode: true
+TIKT1130:
+  TestingMode: false
+  Id: 'TIKT1130'
+  Name: 'Cơ sở dữ liệu'
+  Date: '19/07/2023 08:30'
+  Time: 3600
+  KeyLink: 'https://drive.google.com/file/d/1pnqz4zAoGvjXsYqzbuEPgq0AYdnDuSYb/view?usp=sharing'
+  DocumentLink:
+    TIKT1130_1:
+      Code: 'TIKT1130_1'
+      FileName: 'TIKT1130_1.pdf'
+      Answers: 'C A B A D B D D C D A D B C D C C B B B A A D B D A D B C D A B B C A B D A A B'
+    TIKT1130_2:
+      Code: 'TIKT1130_2'
+      FileName: 'TIKT1130_2.pdf'
+      Answers: 'C A B A D B D D C D A D B C D C C B B B A A D B D A D B C D A B B C A B D A A B'
+TIKT1130_2:
+  TestingMode: false
+  Id: 'TIKT1130'
+  Name: 'Cơ sở dữ liệu'
+  Date: '19/07/2023 14:30'
+  Time: 3600
+  KeyLink: 'https://drive.google.com/file/d/1pnqz4zAoGvjXsYqzbuEPgq0AYdnDuSYb/view?usp=sharing'
+  DocumentLink:
+    TIKT1130_1:
+      Code: 'TIKT1130_1'
+      FileName: 'TIKT1130_1.pdf'
+      Answers: 'C A B A D B D D C D A D B C D C C B B B A A D B D A D B C D A B B C A B D A A B'
+    TIKT1130_2:
+      Code: 'TIKT1130_2'
+      FileName: 'TIKT1130_2.pdf'
+      Answers: 'C A B A D B D D C D A D B C D C C B B B A A D B D A D B C D A B B C A B D A A B'
+KHMA1101:
+  TestingMode: false
   Id: 'KHMA1101'
   Name: 'Kinh tế vĩ mô'
-  Date: '14/07/2023 09:25'
+  Date: '20/07/2023 08:30'
   Time: 3600
   KeyLink: 'https://drive.google.com/file/d/1pnqz4zAoGvjXsYqzbuEPgq0AYdnDuSYb/view?usp=sharing'
   DocumentLink:
-    KHMI1101_1:
+    KHMA1101_1:
       Code: 'KHMA1101_1'
-      FileName: 'KHMI1101_1.pdf'
+      FileName: 'KHMA1101_1.pdf'
       Answers: 'C A B A D B D D C D A D B C D C C B B B A A D B D A D B C D A B B C A B D A A B'
-KHMI1102:
-  TestingMode: false
-  Id: 'KHMA1102'
-  Name: 'Triết học Mác - Lênin'
-  Date: '14/07/2023 20:00'
-  Time: 3600
-  KeyLink: 'https://drive.google.com/file/d/1pnqz4zAoGvjXsYqzbuEPgq0AYdnDuSYb/view?usp=sharing'
-  DocumentLink:
-    KHMI1101_1:
-      Code: 'KHMA1101_1'
-      FileName: 'KHMI1101_1.pdf'
+    KHMA1101_2:
+      Code: 'KHMA1101_2'
+      FileName: 'KHMA1101_2.pdf'
       Answers: 'C A B A D B D D C D A D B C D C C B B B A A D B D A D B C D A B B C A B D A A B'
-KHMI1103:
+KHMA1101_2:
   TestingMode: false
-  Id: 'KHMA1103'
+  Id: 'KHMA1101'
   Name: 'Kinh tế vĩ mô'
-  Date: '24/02/2023 19:00'
+  Date: '20/07/2023 13:00'
+  Time: 3600
+  KeyLink: 'https://drive.google.com/file/d/1pnqz4zAoGvjXsYqzbuEPgq0AYdnDuSYb/view?usp=sharing'
+  DocumentLink:
+    KHMA1101_1:
+      Code: 'KHMA1101_1'
+      FileName: 'KHMA1101_1.pdf'
+      Answers: 'C A B A D B D D C D A D B C D C C B B B A A D B D A D B C D A B B C A B D A A B'
+    KHMA1101_2:
+      Code: 'KHMA1101_2'
+      FileName: 'KHMA1101_2.pdf'
+      Answers: 'C A B A D B D D C D A D B C D C C B B B A A D B D A D B C D A B B C A B D A A B'
+KHMA1101_3:
+  TestingMode: false
+  Id: 'KHMA1101'
+  Name: 'Kinh tế vĩ mô'
+  Date: '20/07/2023 20:00'
+  Time: 3600
+  KeyLink: 'https://drive.google.com/file/d/1pnqz4zAoGvjXsYqzbuEPgq0AYdnDuSYb/view?usp=sharing'
+  DocumentLink:
+    KHMA1101_1:
+      Code: 'KHMA1101_1'
+      FileName: 'KHMA1101_1.pdf'
+      Answers: 'C A B A D B D D C D A D B C D C C B B B A A D B D A D B C D A B B C A B D A A B'
+    KHMA1101_2:
+      Code: 'KHMA1101_2'
+      FileName: 'KHMA1101_2.pdf'
+      Answers: 'C A B A D B D D C D A D B C D C C B B B A A D B D A D B C D A B B C A B D A A B'
+KHMI1101:
+  TestingMode: false
+  Id: 'KHMI1101'
+  Name: 'Kinh tế vi mô'
+  Date: '22/07/2023 10:00'
   Time: 3600
   KeyLink: 'https://drive.google.com/file/d/1pnqz4zAoGvjXsYqzbuEPgq0AYdnDuSYb/view?usp=sharing'
   DocumentLink:
     KHMI1101_1:
-      Code: 'KHMA1101_1'
+      Code: 'KHMI1101_1'
       FileName: 'KHMI1101_1.pdf'
       Answers: 'C A B A D B D D C D A D B C D C C B B B A A D B D A D B C D A B B C A B D A A B'
-KHMI1104:
+    KHMI1101_2:
+      Code: 'KHMI1101_2'
+      FileName: 'KHMI1101_2.pdf'
+      Answers: 'C A B A D B D D C D A D B C D C C B B B A A D B D A D B C D A B B C A B D A A B'
+KHMI1101_2:
   TestingMode: false
-  Id: 'KHMA1104'
-  Name: 'Cơ sở dữ liệu'
-  Date: '15/07/2023 09:00'
+  Id: 'KHMI1101'
+  Name: 'Kinh tế vi mô'
+  Date: '22/07/2023 14:30'
   Time: 3600
   KeyLink: 'https://drive.google.com/file/d/1pnqz4zAoGvjXsYqzbuEPgq0AYdnDuSYb/view?usp=sharing'
   DocumentLink:
     KHMI1101_1:
-      Code: 'KHMA1101_1'
+      Code: 'KHMI1101_1'
       FileName: 'KHMI1101_1.pdf'
       Answers: 'C A B A D B D D C D A D B C D C C B B B A A D B D A D B C D A B B C A B D A A B'
-KHMI1105:
+    KHMI1101_2:
+      Code: 'KHMI1101_2'
+      FileName: 'KHMI1101_2.pdf'
+      Answers: 'C A B A D B D D C D A D B C D C C B B B A A D B D A D B C D A B B C A B D A A B'
+LLNL1105:
   TestingMode: false
-  Id: 'KHMA1105'
+  Id: 'LLNL1105'
   Name: 'Triết học Mác - Lênin'
-  Date: '15/07/2023 08:00'
+  Date: '23/07/2023 08:30'
   Time: 3600
   KeyLink: 'https://drive.google.com/file/d/1pnqz4zAoGvjXsYqzbuEPgq0AYdnDuSYb/view?usp=sharing'
   DocumentLink:
-    KHMI1101_1:
-      Code: 'KHMA1101_1'
-      FileName: 'KHMI1101_1.pdf'
+    LLNL1105_1:
+      Code: 'LLNL1105_1'
+      FileName: 'LLNL1105_1.pdf'
       Answers: 'C A B A D B D D C D A D B C D C C B B B A A D B D A D B C D A B B C A B D A A B'
-KHMI1106:
+    LLNL1105_2:
+      Code: 'LLNL1105_2'
+      FileName: 'LLNL1105_2.pdf'
+      Answers: 'C A B A D B D D C D A D B C D C C B B B A A D B D A D B C D A B B C A B D A A B'
+LLNL1105_2:
   TestingMode: false
-  Id: 'KHMA1106'
-  Name: 'Cơ sở lập trình'
-  Date: '15/07/2023 14:00'
+  Id: 'LLNL1105'
+  Name: 'Triết học Mác - Lênin'
+  Date: '23/07/2023 16:00'
   Time: 3600
   KeyLink: 'https://drive.google.com/file/d/1pnqz4zAoGvjXsYqzbuEPgq0AYdnDuSYb/view?usp=sharing'
   DocumentLink:
-    KHMI1101_1:
-      Code: 'KHMA1101_1'
-      FileName: 'KHMI1101_1.pdf'
+    LLNL1105_1:
+      Code: 'LLNL1105_1'
+      FileName: 'LLNL1105_1.pdf'
+      Answers: 'C A B A D B D D C D A D B C D C C B B B A A D B D A D B C D A B B C A B D A A B'
+    LLNL1105_2:
+      Code: 'LLNL1105_2'
+      FileName: 'LLNL1105_2.pdf'
+      Answers: 'C A B A D B D D C D A D B C D C C B B B A A D B D A D B C D A B B C A B D A A B'
+LLNL1105_3:
+  TestingMode: false
+  Id: 'LLNL1105'
+  Name: 'Triết học Mác - Lênin'
+  Date: '23/07/2023 21:30'
+  Time: 3600
+  KeyLink: 'https://drive.google.com/file/d/1pnqz4zAoGvjXsYqzbuEPgq0AYdnDuSYb/view?usp=sharing'
+  DocumentLink:
+    LLNL1105_1:
+      Code: 'LLNL1105_1'
+      FileName: 'LLNL1105_1.pdf'
+      Answers: 'C A B A D B D D C D A D B C D C C B B B A A D B D A D B C D A B B C A B D A A B'
+    LLNL1105_2:
+      Code: 'LLNL1105_2'
+      FileName: 'LLNL1105_2.pdf'
+      Answers: 'C A B A D B D D C D A D B C D C C B B B A A D B D A D B C D A B B C A B D A A B'
+LUCS1129:
+  TestingMode: false
+  Id: 'LUCS1129'
+  Name: 'Pháp luật đại cương'
+  Date: '25/07/2023 07:00'
+  Time: 3600
+  KeyLink: 'https://drive.google.com/file/d/1pnqz4zAoGvjXsYqzbuEPgq0AYdnDuSYb/view?usp=sharing'
+  DocumentLink:
+    LUCS1129_1:
+      Code: 'LUCS1129_1'
+      FileName: 'LUCS1129_1.pdf'
+      Answers: 'C A B A D B D D C D A D B C D C C B B B A A D B D A D B C D A B B C A B D A A B'
+    LUCS1129_2:
+      Code: 'LUCS1129_2'
+      FileName: 'LUCS1129_2.pdf'
+      Answers: 'C A B A D B D D C D A D B C D C C B B B A A D B D A D B C D A B B C A B D A A B'
+LUCS1129_1:
+  TestingMode: false
+  Id: 'LUCS1129'
+  Name: 'Pháp luật đại cương'
+  Date: '25/07/2023 10:00'
+  Time: 3600
+  KeyLink: 'https://drive.google.com/file/d/1pnqz4zAoGvjXsYqzbuEPgq0AYdnDuSYb/view?usp=sharing'
+  DocumentLink:
+    LUCS1129_1:
+      Code: 'LUCS1129_1'
+      FileName: 'LUCS1129_1.pdf'
+      Answers: 'C A B A D B D D C D A D B C D C C B B B A A D B D A D B C D A B B C A B D A A B'
+    LUCS1129_2:
+      Code: 'LUCS1129_2'
+      FileName: 'LUCS1129_2.pdf'
+      Answers: 'C A B A D B D D C D A D B C D C C B B B A A D B D A D B C D A B B C A B D A A B'
+LUCS1129_3:
+  TestingMode: false
+  Id: 'LUCS1129'
+  Name: 'Pháp luật đại cương'
+  Date: '25/07/2023 20:00'
+  Time: 3600
+  KeyLink: 'https://drive.google.com/file/d/1pnqz4zAoGvjXsYqzbuEPgq0AYdnDuSYb/view?usp=sharing'
+  DocumentLink:
+    LUCS1129_1:
+      Code: 'LUCS1129_1'
+      FileName: 'LUCS1129_1.pdf'
+      Answers: 'C A B A D B D D C D A D B C D C C B B B A A D B D A D B C D A B B C A B D A A B'
+    LUCS1129_2:
+      Code: 'LUCS1129_2'
+      FileName: 'LUCS1129_2.pdf'
+      Answers: 'C A B A D B D D C D A D B C D C C B B B A A D B D A D B C D A B B C A B D A A B'
+CNTT1128:
+  TestingMode: false
+  Id: 'CNTT1128'
+  Name: 'Cơ sở lập trình'
+  Date: '26/07/2023 14:30'
+  Time: 3600
+  KeyLink: 'https://drive.google.com/file/d/1pnqz4zAoGvjXsYqzbuEPgq0AYdnDuSYb/view?usp=sharing'
+  DocumentLink:
+    CNTT1128_1:
+      Code: 'CNTT1128_1'
+      FileName: 'CNTT1128_1.pdf'
+      Answers: 'C A B A D B D D C D A D B C D C C B B B A A D B D A D B C D A B B C A B D A A B'
+    CNTT1128_2:
+      Code: 'CNTT1128_2'
+      FileName: 'CNTT1128_2.pdf'
+      Answers: 'C A B A D B D D C D A D B C D C C B B B A A D B D A D B C D A B B C A B D A A B'
+CNTT1128_1:
+  TestingMode: false
+  Id: 'CNTT1128'
+  Name: 'Cơ sở lập trình'
+  Date: '26/07/2023 20:00'
+  Time: 3600
+  KeyLink: 'https://drive.google.com/file/d/1pnqz4zAoGvjXsYqzbuEPgq0AYdnDuSYb/view?usp=sharing'
+  DocumentLink:
+    CNTT1128_1:
+      Code: 'CNTT1128_1'
+      FileName: 'CNTT1128_1.pdf'
+      Answers: 'C A B A D B D D C D A D B C D C C B B B A A D B D A D B C D A B B C A B D A A B'
+    CNTT1128_2:
+      Code: 'CNTT1128_2'
+      FileName: 'CNTT1128_2.pdf'
+      Answers: 'C A B A D B D D C D A D B C D C C B B B A A D B D A D B C D A B B C A B D A A B'
+TOKT1145:
+  TestingMode: false
+  Id: 'TOKT1145'
+  Name: 'Lý thuyết xác suất và thống kê Toán'
+  Date: '27/07/2023 08:30'
+  Time: 3600
+  KeyLink: 'https://drive.google.com/file/d/1pnqz4zAoGvjXsYqzbuEPgq0AYdnDuSYb/view?usp=sharing'
+  DocumentLink:
+    TOKT1145_1:
+      Code: 'TOKT1145_1'
+      FileName: 'TOKT1145_1.pdf'
+      Answers: 'C A B A D B D D C D A D B C D C C B B B A A D B D A D B C D A B B C A B D A A B'
+    TOKT1145_2:
+      Code: 'TOKT1145_2'
+      FileName: 'TOKT1145_2.pdf'
+      Answers: 'C A B A D B D D C D A D B C D C C B B B A A D B D A D B C D A B B C A B D A A B'
+TOKT1145_2:
+  TestingMode: false
+  Id: 'TOKT1145'
+  Name: 'Lý thuyết xác suất và thống kê Toán'
+  Date: '27/07/2023 14:30'
+  Time: 3600
+  KeyLink: 'https://drive.google.com/file/d/1pnqz4zAoGvjXsYqzbuEPgq0AYdnDuSYb/view?usp=sharing'
+  DocumentLink:
+    TOKT1145_1:
+      Code: 'TOKT1145_1'
+      FileName: 'TOKT1145_1.pdf'
+      Answers: 'C A B A D B D D C D A D B C D C C B B B A A D B D A D B C D A B B C A B D A A B'
+    TOKT1145_2:
+      Code: 'TOKT1145_2'
+      FileName: 'TOKT1145_2.pdf'
+      Answers: 'C A B A D B D D C D A D B C D C C B B B A A D B D A D B C D A B B C A B D A A B'
+TOKT1145_3:
+  TestingMode: false
+  Id: 'TOKT1145'
+  Name: 'Lý thuyết xác suất và thống kê Toán'
+  Date: '27/07/2023 21:30'
+  Time: 3600
+  KeyLink: 'https://drive.google.com/file/d/1pnqz4zAoGvjXsYqzbuEPgq0AYdnDuSYb/view?usp=sharing'
+  DocumentLink:
+    TOKT1145_1:
+      Code: 'TOKT1145_1'
+      FileName: 'TOKT1145_1.pdf'
+      Answers: 'C A B A D B D D C D A D B C D C C B B B A A D B D A D B C D A B B C A B D A A B'
+    TOKT1145_2:
+      Code: 'TOKT1145_2'
+      FileName: 'TOKT1145_2.pdf'
+      Answers: 'C A B A D B D D C D A D B C D C C B B B A A D B D A D B C D A B B C A B D A A B'
+CNTT1182:
+  TestingMode: false
+  Id: 'CNTT1182'
+  Name: 'Phương pháp tính'
+  Date: '28/07/2023 08:30'
+  Time: 3600
+  KeyLink: 'https://drive.google.com/file/d/1pnqz4zAoGvjXsYqzbuEPgq0AYdnDuSYb/view?usp=sharing'
+  DocumentLink:
+    CNTT1182_1:
+      Code: 'CNTT1182_1'
+      FileName: 'CNTT1182_1.pdf'
+      Answers: 'C A B A D B D D C D A D B C D C C B B B A A D B D A D B C D A B B C A B D A A B'
+    CNTT1182_2:
+      Code: 'CNTT1182_2'
+      FileName: 'CNTT1182_2.pdf'
+      Answers: 'C A B A D B D D C D A D B C D C C B B B A A D B D A D B C D A B B C A B D A A B'
+CNTT1182_2:
+  TestingMode: false
+  Id: 'CNTT1182'
+  Name: 'Phương pháp tính'
+  Date: '28/07/2023 14:30'
+  Time: 3600
+  KeyLink: 'https://drive.google.com/file/d/1pnqz4zAoGvjXsYqzbuEPgq0AYdnDuSYb/view?usp=sharing'
+  DocumentLink:
+    CNTT1182_1:
+      Code: 'CNTT1182_1'
+      FileName: 'CNTT1182_1.pdf'
+      Answers: 'C A B A D B D D C D A D B C D C C B B B A A D B D A D B C D A B B C A B D A A B'
+    CNTT1182_2:
+      Code: 'CNTT1182_2'
+      FileName: 'CNTT1182_2.pdf'
       Answers: 'C A B A D B D D C D A D B C D C C B B B A A D B D A D B C D A B B C A B D A A B'
