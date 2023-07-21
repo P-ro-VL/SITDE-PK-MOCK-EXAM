@@ -45,11 +45,11 @@ KHMI1101:
     KHMI1101_1:
       Code: 'KHMI1101_1'
       FileName: 'KHMI1101_1.pdf'
-      Answers: 'C A B A D B D D C D A D B C D C C B B B A A D B D A D B C D A B B C A B D A A B'
+      Answers: 'A A A C B C A C D B D B B A C C A A D A C D D B C D C C D D C B A A C B D B C B'
     KHMI1101_2:
       Code: 'KHMI1101_2'
       FileName: 'KHMI1101_2.pdf'
-      Answers: 'C A B A D B D D C D A D B C D C C B B B A A D B D A D B C D A B B C A B D A A B'
+      Answers: 'C C B A B C C B C D D B C C A C B D D D A B B B D A B D B C A C D B D C C A C A'
 KHMI1101_2:
   TestingMode: false
   Id: 'KHMI1101'
