@@ -51,7 +51,7 @@ KHMI1101:
       FileName: 'KHMI1101_2.pdf'
       Answers: 'C A B A D B D D C D A D B C D C C B B B A A D B D A D B C D A B B C A B D A A B'
 LLNL1105:
-  TestingMode: true
+  TestingMode: false
   Id: 'LLNL1105'
   Name: 'Triết học Mác - Lênin'
   Date: '23/07/2023 16:00'
