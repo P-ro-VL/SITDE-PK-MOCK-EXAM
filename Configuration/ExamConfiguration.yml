@@ -54,7 +54,7 @@ LLNL1105:
   TestingMode: false
   Id: 'LLNL1105'
   Name: 'Triết học Mác - Lênin'
-  Date: '23/07/2023 16:00'
+  Date: '23/07/2023 21:30'
   Time: 3000
   KeyLink: 'https://drive.google.com/file/d/1pnqz4zAoGvjXsYqzbuEPgq0AYdnDuSYb/view?usp=sharing'
   DocumentLink:
@@ -62,22 +62,6 @@ LLNL1105:
       Code: 'LLNL1105'
       FileName: 'LLNL1105.pdf'
       Answers: 'D C B D D A B D A B D C A D B B C A C C D A B C D A D C B D D B C C A D B D C A B B B A C D B C C C B C A A D C C D C B B A D B C D C C A A B D C D B C C A B D'
-LLNL1105_3:
-  TestingMode: false
-  Id: 'LLNL1105'
-  Name: 'Triết học Mác - Lênin'
-  Date: '23/07/2023 21:30'
-  Time: 3000
-  KeyLink: 'https://drive.google.com/file/d/1pnqz4zAoGvjXsYqzbuEPgq0AYdnDuSYb/view?usp=sharing'
-  DocumentLink:
-    LLNL1105_1:
-      Code: 'LLNL1105_1'
-      FileName: 'LLNL1105_1.pdf'
-      Answers: 'C A B A D B D D C D A D B C D C C B B B A A D B D A D B C D A B B C A B D A A B'
-    LLNL1105_2:
-      Code: 'LLNL1105_2'
-      FileName: 'LLNL1105_2.pdf'
-      Answers: 'C A B A D B D D C D A D B C D C C B B B A A D B D A D B C D A B B C A B D A A B'
 LUCS1129:
   TestingMode: false
   Id: 'LUCS1129'
