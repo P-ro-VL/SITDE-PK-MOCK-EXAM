@@ -66,22 +66,6 @@ LUCS1129:
   TestingMode: false
   Id: 'LUCS1129'
   Name: 'Pháp luật đại cương'
-  Date: '25/07/2023 07:00'
-  Time: 3600
-  KeyLink: 'https://drive.google.com/file/d/1pnqz4zAoGvjXsYqzbuEPgq0AYdnDuSYb/view?usp=sharing'
-  DocumentLink:
-    LUCS1129_1:
-      Code: 'LUCS1129_1'
-      FileName: 'LUCS1129_1.pdf'
-      Answers: 'C A B A D B D D C D A D B C D C C B B B A A D B D A D B C D A B B C A B D A A B'
-    LUCS1129_2:
-      Code: 'LUCS1129_2'
-      FileName: 'LUCS1129_2.pdf'
-      Answers: 'C A B A D B D D C D A D B C D C C B B B A A D B D A D B C D A B B C A B D A A B'
-LUCS1129_1:
-  TestingMode: false
-  Id: 'LUCS1129'
-  Name: 'Pháp luật đại cương'
   Date: '25/07/2023 10:00'
   Time: 3600
   KeyLink: 'https://drive.google.com/file/d/1pnqz4zAoGvjXsYqzbuEPgq0AYdnDuSYb/view?usp=sharing'
@@ -89,11 +73,11 @@ LUCS1129_1:
     LUCS1129_1:
       Code: 'LUCS1129_1'
       FileName: 'LUCS1129_1.pdf'
-      Answers: 'C A B A D B D D C D A D B C D C C B B B A A D B D A D B C D A B B C A B D A A B'
+      Answers: 'C A B D D A B A A D B A A B C D B A D D B B D A C B D C C B A A D A D B D D C C'
     LUCS1129_2:
       Code: 'LUCS1129_2'
       FileName: 'LUCS1129_2.pdf'
-      Answers: 'C A B A D B D D C D A D B C D C C B B B A A D B D A D B C D A B B C A B D A A B'
+      Answers: 'D A D C B A C C A A A B A B D C A B B C B B D A B D A C C B D A C B B C D D C D'
 LUCS1129_3:
   TestingMode: false
   Id: 'LUCS1129'
