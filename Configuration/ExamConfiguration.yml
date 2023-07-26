@@ -89,11 +89,11 @@ CNTT1128:
     CNTT1128_1:
       Code: 'CNTT1128_1'
       FileName: 'CNTT1128_1.pdf'
-      Answers: 'C A B A D B D D C D A D B C D C C B B B A A D B D A D B C D A B B C A B D A A B'
+      Answers: 'A B C D C B C D D C B A B B A C C D C D A C D A D D D B D A C B A D C A B B C A A B D C B D C C B A'
     CNTT1128_2:
       Code: 'CNTT1128_2'
       FileName: 'CNTT1128_2.pdf'
-      Answers: 'C A B A D B D D C D A D B C D C C B B B A A D B D A D B C D A B B C A B D A A B'
+      Answers: 'D B A C B B B A B C D A A A A A A A D A D B C D A B C B D B A A D A C B A D B C C D A B D B D D A A'
 CNTT1128_1:
   TestingMode: false
   Id: 'CNTT1128'
