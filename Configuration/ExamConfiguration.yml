@@ -82,7 +82,7 @@ CNTT1128:
   TestingMode: false
   Id: 'CNTT1128'
   Name: 'Cơ sở lập trình'
-  Date: '26/07/2023 14:30'
+  Date: '26/07/2023 20:00'
   Time: 3600
   KeyLink: 'https://drive.google.com/file/d/1pnqz4zAoGvjXsYqzbuEPgq0AYdnDuSYb/view?usp=sharing'
   DocumentLink:
@@ -94,22 +94,6 @@ CNTT1128:
       Code: 'CNTT1128_2'
       FileName: 'CNTT1128_2.pdf'
       Answers: 'D B A C B B B A B C D A A A A A A A D A D B C D A B C B D B A A D A C B A D B C C D A B D B D D A A'
-CNTT1128_1:
-  TestingMode: false
-  Id: 'CNTT1128'
-  Name: 'Cơ sở lập trình'
-  Date: '26/07/2023 20:00'
-  Time: 3600
-  KeyLink: 'https://drive.google.com/file/d/1pnqz4zAoGvjXsYqzbuEPgq0AYdnDuSYb/view?usp=sharing'
-  DocumentLink:
-    CNTT1128_1:
-      Code: 'CNTT1128_1'
-      FileName: 'CNTT1128_1.pdf'
-      Answers: 'C A B A D B D D C D A D B C D C C B B B A A D B D A D B C D A B B C A B D A A B'
-    CNTT1128_2:
-      Code: 'CNTT1128_2'
-      FileName: 'CNTT1128_2.pdf'
-      Answers: 'C A B A D B D D C D A D B C D C C B B B A A D B D A D B C D A B B C A B D A A B'
 TOKT1145:
   TestingMode: false
   Id: 'TOKT1145'
