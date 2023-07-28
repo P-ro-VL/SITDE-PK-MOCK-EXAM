@@ -110,7 +110,7 @@ CNTT1182:
   TestingMode: false
   Id: 'CNTT1182'
   Name: 'Phương pháp tính'
-  Date: '28/07/2023 08:30'
+  Date: '28/07/2023 20:00'
   Time: 3600
   KeyLink: 'https://drive.google.com/file/d/1pnqz4zAoGvjXsYqzbuEPgq0AYdnDuSYb/view?usp=sharing'
   DocumentLink:
@@ -118,19 +118,3 @@ CNTT1182:
       Code: 'CNTT1182'
       FileName: 'CNTT1182.pdf'
       Answers: 'B D A A B D A A D A C B D C D A C C B B D A B B D D A B B B C D A C A A D C A B'
-CNTT1182_2:
-  TestingMode: false
-  Id: 'CNTT1182'
-  Name: 'Phương pháp tính'
-  Date: '28/07/2023 14:30'
-  Time: 3600
-  KeyLink: 'https://drive.google.com/file/d/1pnqz4zAoGvjXsYqzbuEPgq0AYdnDuSYb/view?usp=sharing'
-  DocumentLink:
-    CNTT1182_1:
-      Code: 'CNTT1182_1'
-      FileName: 'CNTT1182_1.pdf'
-      Answers: 'C A B A D B D D C D A D B C D C C B B B A A D B D A D B C D A B B C A B D A A B'
-    CNTT1182_2:
-      Code: 'CNTT1182_2'
-      FileName: 'CNTT1182_2.pdf'
-      Answers: 'C A B A D B D D C D A D B C D C C B B B A A D B D A D B C D A B B C A B D A A B'
