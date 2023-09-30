@@ -1,0 +1,4 @@
+# Nơi lưu trữ các ID ngoại lệ được phép vào muộn sau 15 phút hoặc vào
+# khi dữ liệu đang ở chế độ test.
+uid:
+  - 'example_id'
