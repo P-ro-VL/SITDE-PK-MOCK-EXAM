@@ -12,7 +12,7 @@ data:
         - '15:00 - 20:00'
         - '22:00 - 23:30'
   LUCS1129:
-    name: 'Pháp luật đại cương'
+    name: 'Triết học Mác - Lênin'
     time: 3600
     noQuestion: 40
     testing: false
