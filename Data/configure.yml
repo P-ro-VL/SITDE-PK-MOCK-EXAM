@@ -15,7 +15,7 @@ data:
     name: 'Pháp luật đại cương'
     time: 3600
     noQuestion: 40
-    testing:
+    testing: false
     password: '51034'
     sessions:
       '01/10/2023':
