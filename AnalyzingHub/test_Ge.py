@@ -1,26 +1,10 @@
-def isSpecialString(string: str):
-    digits = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
-    count = 0
-    for c in string:
-        if digits[int(c)] == 0:
-            count += 1
-        digits[int(c)] += 1
+P = 0.0
+p = 0.05
 
-    maxValue = max(digits)
-    return maxValue <= count
-
-
-testCases = int(input())
-while testCases > 0:
-    n = int(input())
-    string = input().replace("\n", "")
-
-    count = n
-    for i in range(0, n):
-        for j in range(i+1, n):
-            s = string[i:j]
-            if isSpecialString(string[i:j+1]):
-                count += 1
-
-    print(count)
-    testCases -= 1
+times = 1
+while P < 1:
+    P = ((1 - 0.05) ** (times-1)) * 0.05
+    print(times, P)
+    times += 1
+    if times >= 100:
+        break
