@@ -5,9 +5,8 @@ data:
     name: 'Kinh tế vĩ mô'
     time: 3600
     noQuestion: 40
-    testing: false
+    testing: true
     password: '22779'
     sessions:
-      '01/10/2023':
-        - '15:00 - 20:00'
-        - '22:00 - 23:30'
+      '05/06/2025':
+        - '12:00 - 13:00'
